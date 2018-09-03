@@ -1,0 +1,38 @@
+# package.use# required by sys-boot/os-prober-1.76-r1::gentoo
+# required by os-prober (argument)
+>=sys-boot/grub-2.02-r1 mount
+# required by app-misc/neofetch-3.4.0::gentoo[X]
+# required by neofetch (argument)
+>=www-client/w3m-0.5.3_p20180125 imlib
+# required by media-video/vlc-3.0.3-r1::gentoo
+# required by media-sound/netease-cloud-music-1.1.0::gentoo-zh
+# required by netease-cloud-music (argument)
+>=sys-libs/zlib-1.2.11-r2 minizip
+# required by media-sound/pulseaudio-11.1-r1::gentoo[alsa-plugin,alsa]
+# required by pulseaudio (argument)
+>=media-plugins/alsa-plugins-1.1.1-r1 pulseaudio
+# required by dev-qt/qtcore-5.9.6::gentoo
+# required by @preserved-rebuild (argument)
+>=dev-libs/libpcre2-10.30 pcre16
+# required by x11-misc/xdg-utils-1.1.1-r1::gentoo
+# required by www-client/google-chrome-68.0.3440.106::gentoo
+# required by google-chrome (argument)
+>=app-text/xmlto-0.0.26-r1 text
+# required by app-text/evince-3.24.2-r1::gentoo
+# required by evince (argument)
+>=dev-libs/glib-2.52.3 dbus
+# required by app-text/evince-3.24.2-r1::gentoo
+# required by evince (argument)
+>=app-text/poppler-0.62.0-r1 cairo
+# required by www-client/firefox-52.8.0::gentoo
+# required by www-client/firefox (argument)
+>=media-libs/libpng-1.6.34 apng
+# required by www-client/firefox-52.8.0::gentoo
+# required by www-client/firefox (argument)
+>=dev-lang/python-2.7.14-r1:2.7 sqlite
+# required by www-client/chromium-68.0.3440.75::gentoo
+# required by chromium (argument)
+>=dev-libs/libxml2-2.9.8 icu
+# required by www-client/chromium-68.0.3440.75::gentoo
+# required by chromium (argument)
+>=media-libs/harfbuzz-1.8.1 icu

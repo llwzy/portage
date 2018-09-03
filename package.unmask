@@ -1,0 +1,5 @@
+# required by net-misc/netifrc-0.5.1::gentoo
+# required by @selected
+# required by @world (argument)
+# /etc/portage/package.mask/mask-kernel:
+=sys-apps/openrc-0.34.11

@@ -1,0 +1,11 @@
+x11-misc/rofi	windowmode
+media-fonts/source-pro -cjk
+app-admin/conky wifi
+x11-terms/rxvt-unicode xft
+dev-libs/libxml2 python
+x11-libs/cairo X xcb
+x11-libs/libxcb xkb
+x11-libs/pango X
+media-libs/imlib2 jpeg png
+sys-firmware/intel-microcode initramfs split-ucode -monolithic
+app-text/ghostscript cups

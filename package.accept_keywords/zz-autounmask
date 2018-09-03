@@ -1,0 +1,32 @@
+# package.accept_keywords# required by net-proxy/shadowsocks-libev-3.2.0::gentoo
+# required by shadowsocks-libev (argument)
+=net-libs/libcorkipset-1.1.1.20150311_p8 ~amd64
+# required by net-libs/libcorkipset-1.1.1.20150311_p8::gentoo
+# required by net-proxy/shadowsocks-libev-3.2.0::gentoo
+# required by shadowsocks-libev (argument)
+=net-libs/libcork-0.15.0 ~amd64
+# required by shadowsocks-libev (argument)
+=net-proxy/shadowsocks-libev-3.2.0 ~amd64
+# required by net-proxy/shadowsocks-libev-3.2.0::gentoo
+# required by shadowsocks-libev (argument)
+=net-libs/libbloom-1.5 ~amd64
+# required by webstorm (argument)
+=dev-util/webstorm-2017.2.4.172.4155.35 ~amd64
+# required by fontawesome (argument)
+=media-fonts/fontawesome-5.1.0 ~amd64
+# required by netease-cloud-music (argument)
+=media-sound/netease-cloud-music-1.1.0 ~amd64
+# required by visual-studio-code (argument)
+=app-editors/visual-studio-code-1.26.0 ~amd64
+# required by media-gfx/w3mimgfb (argument)
+=media-gfx/w3mimgfb-0.9.1 ~amd64
+# required by www-client/firefox-61.0-r1::gentoo
+# required by @selected
+# required by @world (argument)
+=dev-libs/nss-3.38 ~amd64
+# required by www-client/firefox-61.0-r1::gentoo
+# required by @selected
+# required by @world (argument)
+=dev-libs/nspr-4.19 ~amd64
+# required by stow (argument)
+=app-admin/stow-2.2.2-r1 ~amd64
