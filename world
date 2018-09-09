@@ -4,6 +4,7 @@ app-admin/sudo
 app-arch/file-roller
 app-arch/pigz
 app-arch/pixz
+app-editors/emacs
 app-editors/nano
 app-editors/vim
 app-editors/visual-studio-code
@@ -20,12 +21,15 @@ dev-libs/libxml2
 dev-python/pip
 dev-util/dialog
 dev-vcs/git
+gnome-base/gvfs
 lxde-base/lxappearance
 media-fonts/arphicfonts
 media-fonts/dejavu
 media-fonts/droid
 media-fonts/fontawesome
+media-fonts/inconsolata
 media-fonts/ipamonafont
+media-fonts/noto
 media-fonts/powerline-symbols
 media-fonts/source-pro
 media-fonts/wqy-zenhei
@@ -52,7 +56,6 @@ sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
 sys-process/htop
 www-client/chromium
-www-client/firefox-bin
 x11-apps/mkfontdir
 x11-apps/mkfontscale
 x11-apps/setxkbmap

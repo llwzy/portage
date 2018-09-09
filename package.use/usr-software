@@ -9,3 +9,5 @@ x11-libs/pango X
 media-libs/imlib2 jpeg png
 sys-firmware/intel-microcode initramfs split-ucode -monolithic
 app-text/ghostscript cups
+app-editors/emacs gtk motif athena 
+gnome-base/gvfs udisks

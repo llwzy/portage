@@ -36,3 +36,7 @@
 # required by www-client/chromium-68.0.3440.75::gentoo
 # required by chromium (argument)
 >=media-libs/harfbuzz-1.8.1 icu
+# required by x11-misc/pcmanfm-1.2.5::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libfm-1.2.5 gtk
